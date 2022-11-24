@@ -5,7 +5,7 @@
           3. Machine learning & Feature engineering,
           4. Python development.
 
-- 🌱 I’m currently learning Power/Climate Systems modeling
+- 🌱 I’m currently learning Power/Climate system modeling
 - 📫 How to reach me: tkoutsellis@epu.ntua.gr OR koutsellis.themistoklis@gmail.com / Linkedin: https://www.linkedin.com/in/themistoklis-koutsellis/
 
 <!---
